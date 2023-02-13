@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    border-radius: 10px;
 }
 .back{
     display: flex;
@@ -11,7 +12,11 @@
 .imgback{
    margin: 10px;
 }
-h1{
+.title{
     color: white;
     font-family: 'Courier New', Courier, monospace;
+}
+
+abbr{
+    text-decoration: none;
 }
