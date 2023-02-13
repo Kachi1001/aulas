@@ -1,0 +1,17 @@
+.header{
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.back{
+    display: flex;
+
+}
+.imgback{
+   margin: 10px;
+}
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
